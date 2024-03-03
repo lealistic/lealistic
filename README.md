@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Lucas Leal, a passionate Computer Science student from Brazil diving into the world of coding, exploring algorithms, problem-solving, and honing programming skills one challenge at a time. Let's code together! 💻
+I'm Lucas, a passionate Computer Science student from Brazil diving into the world of coding, exploring algorithms, problem-solving, and honing programming skills one challenge at a time. Let's code together! 💻
 
 
 ## 🌐 Socials:
