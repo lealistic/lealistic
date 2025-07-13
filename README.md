@@ -12,7 +12,7 @@ Sou um estudante de 22 anos, cursando o 4º período de Ciência da Computação
 
 ## 🛠️ Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,react,wordpress,sqlite,mysql,typescript,nextjs,sass,bootstrap,jquery,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
 ---
 
