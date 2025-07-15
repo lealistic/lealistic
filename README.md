@@ -2,7 +2,9 @@
 
 ## 👉 Sobre mim
 
-Sou um estudante de 22 anos, cursando o 4º período de Ciência da Computação na Unicarioca. Sou apaixonado tecnologia desde criança. Meu foco atual é me tornar um desenvolvedor fullstack completo, com uma base sólida em front-end (HTML, CSS) e expandindo rapidamente para JavaScript, React e o universo do back-end com Node.js, APIs e bancos de dados.
+Tenho 22 anos e atualmente curso o 4º período de Ciência da Computação na UniCarioca. Minha paixão por tecnologia, que começou na infância, agora direciona minha jornada para me tornar um desenvolvedor web completo.
+
+Atualmente, Meu foco atual é me aprimorar meu desenvolvimento com uma base sólida em front-end (HTML, CSS) e expandindo rapidamente para JavaScript, e futuramente React.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lealistic&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 <br>
