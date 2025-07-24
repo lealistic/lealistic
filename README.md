@@ -14,7 +14,7 @@ Atualmente, Meu foco atual é me aprimorar meu desenvolvimento com uma base sól
 
 ## 🛠️ Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,vscode)](https://skillicons.dev)
 
 ---
 
