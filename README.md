@@ -2,7 +2,7 @@
 
 ## 👉 Sobre mim
 
-Tenho 22 anos e atualmente curso o 4º período de Ciência da Computação na UniCarioca. Minha paixão por tecnologia, que começou na infância, agora direciona minha jornada para me tornar um desenvolvedor web completo.
+Tenho 23 anos e atualmente curso o 4º período de Ciência da Computação na UniCarioca. Minha paixão por tecnologia, que começou na infância, agora direciona minha jornada para me tornar um desenvolvedor web completo.
 
 Atualmente, Meu foco atual é me aprimorar meu desenvolvimento com uma base sólida em front-end (HTML, CSS, JavaScript) e expandindo rapidamente para React.
 
